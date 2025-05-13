@@ -1,3 +1,0 @@
-&display {
-    blanking = "idle";
-};
